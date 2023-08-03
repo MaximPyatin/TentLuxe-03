@@ -108,10 +108,10 @@ calculateTotal();
 
 
 const imagesType1 = [
-  '/public/type_1/tent_1.jpg',
-  '/public/type_1/tent_2.jpg',  
-  '/public/type_1/tent_3.jpg' ,
-  '/public/type_1/tent_4.jpg' 
+  'https://github.com/MaximPyatin/TentLuxe-03/blob/main/public/type_1/tent_1.JPG?raw=true',
+  'https://github.com/MaximPyatin/TentLuxe-03/blob/main/public/type_1/tent_2.JPG?raw=true',  
+  'https://github.com/MaximPyatin/TentLuxe-03/blob/main/public/type_1/tent_3.JPG?raw=true' ,
+  'https://github.com/MaximPyatin/TentLuxe-03/blob/main/public/type_1/tent_4.JPG?raw=true' 
 ];
 
 const imagesType2 = [
